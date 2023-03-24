@@ -23,7 +23,7 @@ If any error occured, in which displayed warning "xxx Module not found...", use 
 pip install xxx
 """
 
-!pip install pandas
+pip install pandas
 
 import pandas as pd
 
